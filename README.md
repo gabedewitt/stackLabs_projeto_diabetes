@@ -2,7 +2,7 @@
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter&logoColor=orange)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=Google+Colab&logoColor=orange)
-![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=Google+Colab&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=yellow)
 
 Este projeto foi desenvolvido na segunda edição da competição educativa Stack Labs, da Stack Tecnologias, em que squads de alunos da plataforma da Stack se reuniram em squads para desenvolver projetos de ciência e engenharia de dados a fim de exercitar os conhecimentos adquiridos nos cursos da Stack Tecnologias em um projeto prático utilizando dados de pacientes com diabetes disponíveis no site ![Kaggle](https://www.kaggle.com/alexteboul/diabetes-health-indicators-dataset).
 
